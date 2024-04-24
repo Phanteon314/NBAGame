@@ -11,7 +11,7 @@
 
    <div id="main" style="width: 80%; height: 80%; border: #AAFF00 2px solid;" class="row d-flex justify-content-center align-items-center">
     <div class="row">
-      <div class="col-8 d-flex justify-content-center align-items-center">
+      <div class="col-8 d-flex justify-content-center align-items-center text-white">
         <h1>INICIO DE SESION</h1>
       </div>
       <div class="col-4">
@@ -28,7 +28,7 @@
           <label for="exampleInputPassword1" class="form-label text-white">Clave</label>
           <input type="password" class="form-control" id="exampleInputPassword1">
         </div>
-        <button type="submit" class="btn btn-primary mt-2">Submit</button>
+        <button type="submit" class="btn btn-primary mt-2">Iniciar sesion</button>
       </form>
     </div>
    </div>

@@ -12,7 +12,7 @@
             <a class="nav-link" href="{{url('/')}}">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"  href="{{url('/jugar')}}">Jugar</a>
+            <a class="nav-link"  href="{{url('/jugar')}}">Enfrentamiento</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{url('/inventario')}}">Inventario</a>
@@ -27,7 +27,7 @@
             <a class="nav-link" href="{{url('/tienda')}}">Tienda</a>
           </li>
           <li class="nav-item" style="margin-left: 30px; border: #088596 2px solid;">
-            <a class="nav-link" href="#">Iniciar sesion</a>
+            <a class="nav-link" href="{{url('/login')}}">Iniciar sesion</a>
           </li>
         </ul>
       </div>
