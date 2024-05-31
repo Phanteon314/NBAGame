@@ -10,10 +10,13 @@
 
     <div class="row">
         <ul>
-            <li><a href="#">Contactanos</a></li>
-            <li><a href="#">Nuestros servicios</a></li>
+            @if (auth()->check())
+                <li><a href="{{url('/contacto')}}">Contactanos</a></li>
+            @else
+                <li><a href="{{url('/login')}}">Contactanos</a></li>
+            @endif
             <li><a href="#">Terminos y condiciones</a></li>
-            <li><a href="#">Sobre nosotros</a></li>
+            <li><a href="{{url('index')}}">Sobre nosotros</a></li>
         </ul>
     </div>
 

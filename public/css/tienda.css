@@ -1,0 +1,45 @@
+.cajaBorde {
+    position: relative;
+    width: 250px;
+    height: 200px;
+    color: #fff;
+    background: #151320;
+    font: 700 2rem 'Montserrat';
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cajaBorde::before,
+.cajaBorde::after {
+    content: '';
+    z-index: -1;
+    position: absolute;
+    width: calc(100% + 20px);
+    height: calc(100% + 20px);
+    top: -10px;
+    left: -10px;
+    border-radius: 8px;
+    background: linear-gradient(45deg,
+        #ffff00, #00ff00, #0099ff, #001aff, #a200ff,
+        #ff0055, #ff0000, #ff0055, #ff0000, #ffff00,
+        #ffff00, #00ff00, #0099ff, #001aff, #a200ff);
+    background-size: 300%;
+    animation: border 12s linear infinite;
+}
+
+.cajaBorde::after {
+    filter: blur(50px);
+}
+
+@keyframes border {
+    0%, 100% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+}

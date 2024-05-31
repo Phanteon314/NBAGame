@@ -13,22 +13,22 @@
       <div class="carousel-item active">
          <img class="d-block w-100" src="https://i.postimg.cc/bNQp0RDW/1.jpg" alt="First slide">
          <div class="carousel-caption d-none d-md-block">
-            <h5>Slider One Item</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+            <h5>NBAGame</h5>
+            <p>La evoluciond de los juegos de cartas</p>
          </div>
       </div>
       <div class="carousel-item">
          <img class="d-block w-100" src="https://i.postimg.cc/pVzg3LWn/2.jpg" alt="Second slide">
          <div class="carousel-caption d-none d-md-block">
-            <h5>Slider One Item</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+            <h5>Aprende a perder</h5>
+            <p>El juego donde la mayoria pierde y pocos ganan</p>
          </div>
       </div>
       <div class="carousel-item">
          <img class="d-block w-100" src="https://i.postimg.cc/0y2F6Gpp/3.jpg" alt="Third slide">
          <div class="carousel-caption d-none d-md-block">
-            <h5>Slider One Item</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+            <h5>Desafia a todo el mundo</h5>
+            <p>Muchos jugadores pero solo un ganador entre todos ellos</p>
          </div>
       </div>
       </div>
@@ -42,17 +42,45 @@
       </a>
    </div>
 
+   <div class="row mt-5">
+      <div class="col-12">
+          <h1>QUE ES NBAGAME</h1>
+      </div>
+      <div class="col-12 mb-2">
+      <hr style="border-top: 1px solid #AAFF00;">
+      </div>
+  </div>
    <div class="row text-white d-flex justify-content-center" style="margin-top:40px;">
       <div class="col-10">
-         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt ornare massa eget egestas purus viverra. Tellus elementum sagittis vitae et leo duis ut diam. Feugiat pretium nibh ipsum consequat nisl. Pellentesque dignissim enim sit amet venenatis. Quis lectus nulla at volutpat diam ut. Mauris pharetra et ultrices neque ornare aenean euismod. Blandit volutpat maecenas volutpat blandit aliquam etiam. Convallis posuere morbi leo urna molestie. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Auctor urna nunc id cursus metus aliquam. Volutpat ac tincidunt vitae semper quis. Pretium viverra suspendisse potenti nullam. Vitae et leo duis ut diam quam nulla porttitor. Curabitur vitae nunc sed velit. A scelerisque purus semper eget duis.
+         NBAGame es un juego de cartas basado en la aleatoridad y la rejugabilidad el cual tiene un principio base de que cada partida sea diferente a la anterior, esta hecho para ser jugado offline actualmente pero se espera que para un futuro se puede desarrollar mas y poder ser jugado de forma multijugador
          <br><br>
-         Vestibulum lorem sed risus ultricies tristique. Eu facilisis sed odio morbi. Faucibus interdum posuere lorem ipsum dolor sit. Maecenas sed enim ut sem viverra aliquet eget sit. Leo duis ut diam quam nulla porttitor massa id neque. Non blandit massa enim nec dui nunc. Ac turpis egestas sed tempus urna. Quam adipiscing vitae proin sagittis nisl rhoncus. Diam donec adipiscing tristique risus nec feugiat. Justo donec enim diam vulputate ut pharetra sit. Turpis tincidunt id aliquet risus. Semper risus in hendrerit gravida rutrum. Sed elementum tempus egestas sed sed risus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Nisl purus in mollis nunc. Nunc mattis enim ut tellus elementum sagittis vitae et.
-         <br><br>
-         Velit sed ullamcorper morbi tincidunt. Diam volutpat commodo sed egestas egestas. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Quis risus sed vulputate odio. Est pellentesque elit ullamcorper dignissim cras. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Augue lacus viverra vitae congue. Nisi scelerisque eu ultrices vitae auctor eu. Posuere ac ut consequat semper viverra nam libero. Mi proin sed libero enim sed faucibus turpis in eu. Bibendum ut tristique et egestas quis ipsum. Vulputate mi sit amet mauris commodo quis. Tellus in metus vulputate eu scelerisque felis imperdiet proin. Blandit turpis cursus in hac habitasse. Et odio pellentesque diam volutpat commodo sed egestas. Fusce ut placerat orci nulla pellentesque dignissim enim. Cras adipiscing enim eu turpis egestas pretium aenean pharetra magna. Arcu dictum varius duis at. Eget nunc scelerisque viverra mauris in aliquam sem.
-         <br><br>
-         Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Amet dictum sit amet justo donec enim diam vulputate. At augue eget arcu dictum varius duis at. Laoreet id donec ultrices tincidunt arcu non sodales neque sodales. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Cursus mattis molestie a iaculis at erat pellentesque adipiscing. Aliquam ultrices sagittis orci a scelerisque purus semper. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Dignissim cras tincidunt lobortis feugiat vivamus. Lectus arcu bibendum at varius vel pharetra vel turpis. Sed blandit libero volutpat sed cras ornare arcu dui vivamus. Facilisis mauris sit amet massa. Feugiat vivamus at augue eget arcu. Est placerat in egestas erat. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Sed risus pretium quam vulputate dignissim suspendisse. Egestas sed tempus urna et pharetra pharetra massa massa. Sodales neque sodales ut etiam sit. At tellus at urna condimentum mattis pellentesque id.
-         <br><br>
-         Tempor nec feugiat nisl pretium fusce id velit ut. Phasellus egestas tellus rutrum tellus. Vel quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. A lacus vestibulum sed arcu non odio euismod lacinia. Molestie at elementum eu facilisis sed odio morbi. Facilisis volutpat est velit egestas dui. Praesent tristique magna sit amet purus gravida quis blandit turpis. In est ante in nibh mauris cursus mattis. Ut consequat semper viverra nam libero justo laoreet. A cras semper auctor neque vitae tempus quam pellentesque nec. Tincidunt arcu non sodales neque sodales ut etiam. At auctor urna nunc id. Auctor neque vitae tempus quam pellentesque nec nam. In nibh mauris cursus mattis molestie a iaculis at erat. Ac turpis egestas maecenas pharetra convallis posuere. Lobortis elementum nibh tellus molestie nunc non blandit massa. Dolor sed viverra ipsum nunc aliquet bibendum.
+         El desarrollador principal de la aplicacion es un experimentado desarrollador de aplicaciones web, el cual lleva en desarrollo de la pagina no mucho tiempo, ya que estamos hablando de una version 1.0 la cual no ha tenido mucho tiempo de desarrollo, pero se espera que en el futuro se puedan implementar mejoras que aumenten la calidad del producto.
       </div>
    </div>
+
+   <div class="row mt-5">
+      <div class="col-12">
+          <h1>COMO JUGAR</h1>
+      </div>
+      <div class="col-12 mb-2">
+      <hr style="border-top: 1px solid #AAFF00;">
+      </div>
+  </div>
+
+  <div class="row text-white d-flex justify-content-center" style="margin-top:40px;">
+      <div class="col-10">
+         El juego usa un sistema de manejo de cartas para poder jugar al mismo, estas cartas pueden ser obtenidas por un usuario usando sus fondos para conseguirlas, ya puede ser comprandolas directamente por un precio mayor o jugarsela a obtenerlas por tiradas.
+Las cartas de un usuario se pueden ver en el inventario y su manejo se realiza en el perfil para crear mazos. Estos mazos consisten en cuatro cartas del usuario que se juntan para crear un mazo, el cual usaremos posteriormente para jugar si lo seleccionamos en nuestro apartado de perfil. Cabe destacar que estas cartas una vez se crean en un mazo ya no podran ser usadas en otros mazos y cada mazo tiene un numero de usos limitado para su uso en juego
+A su vez cada carta esta constituida por unas estadisticas: tiro, defense, rebote, asistencia, atletismo. Tambien tienen como es obvio al tratarse de un juego de baloncesto el nombre del jugador, el equipo y la posicion en el mismo.
+         <br><br>
+         El modo principal de la aplicacion es el modo enfrentamiento, en el cual cada usuario con sus ya creados mazos decidira cual usar para jugar contra la maquina en un modo de juego que mezcla una Buena construccion de mazos con un gran factor de aleatoriedad que hace que nunca sepas como va a terminar la session. Se require como minimo un mazo para poder jugar una partida
+En este modo un jugador selecciona un mazo el cual tiene un orden establecido previamente. Una vez seleccionado el mazo se genera un mazo con jugadores generados aleatoriamente el cual sera el mazo de la maquina, este mazo sera igual al mazo del jugador. Una vez creados los mazos empezara la partida, en la cual se enfrentaran las cartas en orden una a una sumando todas las estadisticas de la misma, la carta que tenga mayores estadisticas sera la ganadora del duelo aportando un punto al bando ganador. 
+Una vez se realizan los duelos se suman las estadisticas individuales de las cuatro cartas una a una para sacar un sumatorio de la estadistica. De esta forma cada jugador tendra un resultado de tiro, defensa…, despues estas se compararan con el equivalente del otro jugador, dando un punto por resultado ganador.
+Una vez finalizado el juego se suman todos los puntos y el jugador con mas puntos sera el ganador. En caso de ganar, el usuario obtiene 200 de saldo para su cuenta y el mazo que ha usado pierde un uso del mismo.
+         <br><br>
+         El objetivo del juego es conseguir el mayor número de victorias posibles hasta que el usuario se quede sin saldo. Cada jugador comienza una sesion con un determinado saldo de 1500, el cual según se juegue ira disminuyendo segun el usuario vaya usando sus cartas. Al quedarse sin cartas, mazos y saldo, el usuario se declarara en bancarrota y se acabara la sesion, la cual guardara el numero de partidas ganadas (asi como mas estadísticas) y se añadira la partida a una leaderboard, una table que recogera que usuarios han conseguido más victorias en una misma sesion.
+      </div>
+   </div>
+  
+
 @stop

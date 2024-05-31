@@ -8,9 +8,12 @@
 @endsection
 
 @section('content')
-    <div class="row">
-        <div class="col-12 d-flex justify-content-center text-white" style="margin-bottom: 20px; margin-top: 30px;">
+    <div class="row mt-5">
+        <div class="col-12">
             <h1>LEADERBOARD</h1>
+        </div>
+        <div class="col-12 mb-2">
+        <hr style="border-top: 1px solid #AAFF00;">
         </div>
     </div>
 
@@ -18,69 +21,29 @@
         <table class="container">
             <thead>
                 <tr>
-                    <th><h1>Jugador</h1></th>
-                    <th><h1>Cartas</h1></th>
-                    <th><h1>Intentos</h1></th>
-                    <th><h1>Tipo</h1></th>
+                    <th><h1>Nombre</h1></th>
+                    <th><h1>Numero de sesion</h1></th>
+                    <th><h1>Partidas jugadas</h1></th>
+                    <th><h1>Partidas ganadas</h1></th>
+                    <th><h1>Partidas perdidas</h1></th>
+                    <th><h1>Win ratio</h1></th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
+                @foreach($estadisticasSesiones as $estadisticas)
+                <tr class="text-white">
+                    <td>{{$estadisticas->nombre}}</td>
+                    <td>{{$estadisticas->sesionId}}</td>
+                    <td>{{$estadisticas->totalPartidas}}</td>
+                    <td>{{$estadisticas->victorias}}</td>
+                    <td>{{$estadisticas->derrotas}}</td>
+                    <td>{{$estadisticas->winRatio}}%</td>
                 </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
-                <tr>
-                    <td>Prueba</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                    <td>000000</td>
-                </tr>
+                @endforeach
             </tbody>
         </table>
-
+        <div class="row d-flex justify-content-center" style="width: 93%">
+            {{ $estadisticasSesiones->links() }}
+        </div>
     </div>
 @stop
